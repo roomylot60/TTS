@@ -177,7 +177,7 @@ pyrightconfig.json
 
 # dir
 output/
-**/data/
+data/
 
 # file format
 *.m4a
